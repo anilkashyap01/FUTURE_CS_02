@@ -63,7 +63,7 @@ Phishing relies on panic (e.g., "Unusual sign-in from Russia") or greed (e.g., "
 
 ## 📁 Repository Structure
 - `/samples/` - Contains the raw `.eml` Honeypot captures.
-- `/report/` - Contains the final PDF Phishing Detection & Threat Analysis Report.
+- `/reports/` - Contains the final PDF Phishing Detection & Threat Analysis Report.
 - `/screenshots/` - Contains proof-of-concept visual evidence from Google Admin Toolbox.
 
 *This repository serves as the official submission for Task 2 of the Future Interns Cyber Security Program.*
